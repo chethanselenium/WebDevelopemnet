@@ -1,0 +1,14 @@
+.desc {
+  float: left;
+  list-style: none;
+  padding: 10px 10px;
+}
+
+#rightTop {
+  float: right;
+  position: relative;
+}
+
+#about {
+  float: left;
+}
